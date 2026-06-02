@@ -38,7 +38,7 @@ L'ingresso analogico di Arduino accetta tensioni **tra 0V e 5V**. Se vogliamo mi
         │                │
        GND             R2 (10kΩ)
                          │
-                     3   GND
+                        GND
 ```
 
 Due resistenze in serie dividono la tensione di ingresso. La tensione misurata sul nodo centrale (tra R1 e R2) è proporzionale a quella di ingresso.
